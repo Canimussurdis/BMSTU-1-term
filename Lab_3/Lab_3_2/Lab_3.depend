@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607544979 source:c:\users\Пользователь\sgn3-prog-labs-2020-kravetspolina\programmingbasics\lab_3_2\programmingbasics_lab_3_2_main.c
+	<stdio.h>
+	<math.h>
+
